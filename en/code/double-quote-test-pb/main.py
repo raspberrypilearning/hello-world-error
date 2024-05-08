@@ -1,1 +1,1 @@
-print("Double quote")
+print("Double quotes")
